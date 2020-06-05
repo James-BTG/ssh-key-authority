@@ -1,5 +1,4 @@
 version: "3.8"
 services:
   ska:
-    build:
-      context: ./docker
+    build: .
